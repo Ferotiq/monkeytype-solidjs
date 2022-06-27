@@ -21,7 +21,7 @@
     "solid-start": "next",
     "solid-start-node": "next",
     "typescript": "4.4.3",
-    "undici": "4.12.2",
+    "undici": "4.16.0",
     "vite": "2.8.6"
   },
   "dependencies": {
